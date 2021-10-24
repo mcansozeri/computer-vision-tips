@@ -19,4 +19,4 @@ Tips for Computer Vision
   </li>
 </ul>
 
-<p>Most examples converted python from matlab version of Udacity Introduction to Computer Vision Course Examples.</p>
+<p>Most examples converted to Python from Matlab version of Udacity Introduction to Computer Vision Course Examples.</p>
