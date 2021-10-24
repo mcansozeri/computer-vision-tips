@@ -12,6 +12,9 @@ Tips for Computer Vision
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
       </a>
   </li>
+    <li>Obtaining Secret Message from Edges on Two Images (with Binary AND)
+      <a href="https://colab.research.google.com/github/mcansozeri/computer-vision-tips/blob/main/3-edge-detection-canny-detector-secret-message.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      </a>
+  </li>
 </ul>
-
-
