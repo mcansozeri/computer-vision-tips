@@ -1,4 +1,4 @@
-# computer-vision-tips
+# Computer Vision Tips
 Tips for Computer Vision
 
 <ul>
